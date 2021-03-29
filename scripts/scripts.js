@@ -19,11 +19,11 @@ function findPrimeNumbers(number) {
   } 
   else {
     // If we reach this else statement then just log that this is not a prime number
-    console.log(number + " is a prime number");
+    console.log(number + " is not a prime number");
   }
 }
 
 
 // Calling the function to test it. Go to your console in your browser to see the result. 
 // Change the number to see what happens :D
-findPrimeNumbers(89)
+findPrimeNumbers(16)
